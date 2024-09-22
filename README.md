@@ -32,5 +32,8 @@ The training dataset can be accessed via the following link: [Kaggle Dataset](ht
 ### Implementation
 A validation set of images and corresponding labels has been included in this repository to ensure the accuracy and reliability of the model.
 
+###
+Model is trained for 50 epoches in colab, results of weights and configurations are attached in the repo
+
 ### Links
 - Model trained using Google Colab [Google Colab Notebook link](https://colab.research.google.com/drive/1eGfWTgLSKJaM36Z9Rdh4LfHTjC0336oi?usp=sharing)
